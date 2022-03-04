@@ -1,4 +1,4 @@
-part of 'text_field_cubit.dart';
+part of 'text_field_cubit_test.dart';
 
 @immutable
 class TextFieldState extends Equatable{

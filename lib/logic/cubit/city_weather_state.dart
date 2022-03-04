@@ -1,4 +1,4 @@
-part of 'city_weather_cubit.dart';
+part of 'city_weather_cubit_test.dart';
 
 @immutable
 abstract class CityWeatherState extends Equatable{}

@@ -1,4 +1,4 @@
-part of 'location_weather_cubit.dart';
+part of 'location_weather_cubit_test.dart';
 
 @immutable
 abstract class LocationWeatherState extends Equatable {

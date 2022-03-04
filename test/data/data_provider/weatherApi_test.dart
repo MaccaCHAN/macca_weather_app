@@ -1,8 +1,8 @@
 // ignore_for_file: file_names
 
 import 'package:geolocator/geolocator.dart';
-import '../network_helper.dart';
-import 'geolocationApi.dart';
+import '../network_helper_test.dart';
+import 'geolocationApi_test.dart';
 import 'package:http/http.dart' as http;
 
 class WeatherApi {
